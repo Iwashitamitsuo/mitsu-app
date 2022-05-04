@@ -262,6 +262,7 @@ footer {
 .box_item {
     width: 100%;
     margin-right: 5%;
+    box-sizing: border-box;
 }
 .indexbox .time {
     font-size: 12px;
